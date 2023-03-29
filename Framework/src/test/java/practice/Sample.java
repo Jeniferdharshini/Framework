@@ -21,5 +21,7 @@ public class Sample {
 	public void deleteContact() {
 		System.out.println("delete contact");
 	}
+	
+	//practice git bash command
 
 }
